@@ -1,20 +1,8 @@
 # NetBird Exit Node Setup Guide for OpenWrt
 
-
-
 ![GitHub](https://img.shields.io/badge/Platform-OpenWrt-blue)
-
-
-
-
 ![NetBird](https://img.shields.io/badge/NetBird-VPN%20Setup-green)
-
-
-
-
 ![License](https://img.shields.io/badge/License-MIT-yellow)
-
-
 
 A comprehensive step-by-step guide to set up NetBird as an exit node on your OpenWrt router, allowing remote peers to route their internet traffic through your connection.
 
@@ -644,6 +632,8 @@ Found an issue or have improvements? Feel free to:
 - Submit a pull request with fixes or enhancements
 - Share your setup experiences in discussions
 
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
 ## License
 
 This guide is provided as-is under the [MIT License](LICENSE).
@@ -667,5 +657,7 @@ This guide is provided as-is under the [MIT License](LICENSE).
 <div align="center">
 
 **⭐ If this guide helped you, consider giving it a star! ⭐**
+
+Made with ❤️ for the OpenWrt & NetBird community
 
 </div>

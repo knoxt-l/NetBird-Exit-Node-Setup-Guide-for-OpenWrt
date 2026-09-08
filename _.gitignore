@@ -1,0 +1,99 @@
+# System files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vim/
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.project
+.classpath
+.c9/
+
+# Editor backups
+*.bak
+*.backup
+*.tmp
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# OS-specific
+.directory
+.Spotlight-V100
+.Trashes
+.AppleDouble
+.LSOverride
+._*
+
+# Temp files
+temp/
+tmp/
+*.temp
+*.tmp
+
+# Local configuration (sensitive data)
+.env
+.env.local
+secrets.txt
+setup-key.txt
+
+# Build/artifact directories
+dist/
+build/
+*.o
+*.a
+*.so
+
+# Documentation builds
+docs/_build/
+site/
+
+# Testing
+.coverage
+.pytest_cache/
+.tox/
+htmlcov/
+
+# Package managers
+package-lock.json
+yarn.lock
+
+# Configuration backups
+*.config.bak
+uci-backups/
+
+# Router-specific backups (don't track these in repo)
+*.backup
+*.tar.gz
+sysupgrade.bin

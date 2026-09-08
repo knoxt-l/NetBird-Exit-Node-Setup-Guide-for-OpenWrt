@@ -1,0 +1,28 @@
+# Auto normalize line endings for all text files
+* text=auto
+
+# Bash scripts
+*.sh text eol=lf
+setup.sh text eol=lf
+
+# Documentation
+*.md text eol=lf
+*.txt text eol=lf
+LICENSE text eol=lf
+CONTRIBUTING text eol=lf
+TROUBLESHOOTING text eol=lf
+
+# Configuration files
+.gitignore text eol=lf
+.gitattributes text eol=lf
+
+# Binary files
+*.pdf binary
+*.bin binary
+*.tar.gz binary
+
+# Explicitly declare text files to normalize
+README.md text eol=lf
+CONTRIBUTING.md text eol=lf
+TROUBLESHOOTING.md text eol=lf
+LICENSE text eol=lf
