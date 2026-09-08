@@ -1,0 +1,1 @@
+# NetBird-Exit-Node-Setup-Guide-for-OpenWrt
